@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+- Adding of ".git" directory with some file whitin in order to create the repository
